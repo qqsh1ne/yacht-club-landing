@@ -1,0 +1,129 @@
+body {
+    background-color: #FDFDFF;
+
+    color: #163152;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 24px;
+}
+
+.site-navigation-item a {
+    font-size: 14px;
+    line-height: 18px;
+    color: #163152;
+
+    text-decoration: none;
+}
+
+.hero h1 {
+    font-style: italic;
+    font-size: 44px;
+    line-height: 60px;
+    font-weight: normal;
+}
+
+h2 {
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 34px;
+
+    text-decoration: underline;
+    text-decoration-color: #00C6BD;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 15px;
+    text-underline-position: under;
+}
+
+.event--date {
+    font-size: 14px;
+    line-height: 18px;
+}
+
+.contacts-list h3 {
+    font-size: 16px;
+    line-height: 22px;
+    font-weight: bold;
+}
+
+.contacts-list-item-data {
+    color: #163152;
+    font-style: normal;
+    font-size: 16px;
+    line-height: 22px;
+    text-decoration: none;
+}
+
+.news h2 {
+    text-align: center;
+}
+
+.news h3 {
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 26px;
+}
+
+.news p {
+    font-size: 18px;
+    line-height: 26px;
+}
+
+.news-teams-list {
+    font-size: 20px;
+}
+
+.news-teams-list-item{
+    font-size: 18px;
+    line-height: 26px;
+}
+
+.news-img figcaption {
+    color: #8693A4;
+    font-size: 16px;
+    line-height: 19px;
+}
+
+.news blockquote {
+    font-weight: bold;
+    font-size: 26px;
+    line-height: 36px;
+}
+
+.news .author-name {
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 19px;
+}
+
+.news-date {
+    color: #8693A4;
+    font-size: 16px;
+    line-height: 19px;
+}
+
+.main-footer{
+    font-size: 10px;
+    line-height: 12px;
+}
+
+.main-footer a {
+    color: #163152;
+    text-decoration: none;
+}
+
+.main-footer h2 {
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 18px;
+}
+
+.footer-nav{
+    font-size: 14px;
+    line-height: 16px;
+}
+
+.crossed {
+    text-decoration: line-through;
+}
